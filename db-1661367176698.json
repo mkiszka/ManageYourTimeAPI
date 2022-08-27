@@ -12,7 +12,6 @@
     {
       "uid": "3213f3e984d5-29f8-4b1d-a609-922444444",
       "id": 2,
-      "userId": 1,
       "title": "KP-3034 Migracja z ver 1.14 do 1.15 usuwa powiązanie pacjent pracownik.",
       "totalTimeInMinutes": "29"
     },
@@ -20,21 +19,18 @@
       "uid": "f07a2d5b-8b43-4f9e-a07a-7f5d0ab61063",
       "title": "Ucze się tego i tamtego?dasdasd as",
       "totalTimeInMinutes": "28",
-      "userId": 1,
       "id": 6
     },
     {
       "uid": "5e8d79b3-b4f2-41ea-8233-32c4b982d9f2",
-      "title": "Ucze się tego i tamtego?dddjejku",
+      "title": "Ucze się tego i tamtego?ddd",
       "totalTimeInMinutes": "27",
-      "userId": 1,
       "id": 7
     },
     {
       "uid": "861c0d9f-13c9-4fbc-98fc-2b22a179df4e",
       "title": "Ucze się tego i tamtego?",
       "totalTimeInMinutes": "26",
-      "userId": 2,
       "id": 8
     }
   ],
